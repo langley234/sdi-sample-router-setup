@@ -1,0 +1,9 @@
+.navbar {
+  display: flex;
+  flex-direction: row;
+}
+.navbarElement {
+  display: flex;
+  flex-direction: row;
+  padding-right: 30px;
+}
